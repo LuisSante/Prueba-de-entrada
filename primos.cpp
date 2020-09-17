@@ -1,7 +1,7 @@
 #include<iostream>
 
 int main(){
-	int n=14,c=0;
+	int n=5,c=0;
 	int contador_primos=0;
 	int numero_primos=2;
 	//std::cout<<"digite numero: ";std::cin>>n;
